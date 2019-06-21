@@ -1,0 +1,17 @@
+h1 {
+    width: 50%;
+    color: blue;
+    background-color: grey;
+} 
+.forceRed {
+    color: red;
+}
+.forceBlackBackground {
+    background-color: black;
+}
+h2 {
+    color: aqua;
+}
+html {
+    color: green;
+}
